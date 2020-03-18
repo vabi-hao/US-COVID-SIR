@@ -9,3 +9,9 @@ Between $S$ and $I$, the transition rate is $\beta$. The average number of conta
 Between $I$ and $R$, the transition rate is $\gamma$. The rate of recovery or death - 'removal rate'. Here we simply assume that the birth rate(health babies) equals the death rate. i.e. the total population in an area remains.) If the duration of the infection is denoted $T_g$, then $\gamma = 1/T_g$, since an individual experiences one recovery in $T_g$ days.
 
 Transition rates have unit of $\dfrac 1 {day}$
+
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
